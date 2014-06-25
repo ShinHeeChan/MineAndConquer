@@ -36,7 +36,7 @@ public class BlockNexus extends BlockContainer {
 	@Override
 	@SideOnly(Side.CLIENT)
 	public void registerBlockIcons(IIconRegister iconRegister) {
-		// TODO Auto-generated method stub
+		// TEST EDITTING
 		this.blockIcon = iconRegister.registerIcon(this.getUnlocalizedName());
 	}
 
